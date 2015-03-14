@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+require 'graph-git'
+require 'trollop'
+
+opts = Trollop::options do
+  opt :git_clone_url, "Git clone URL", :type => :string, :required => true
+  opt :output_path, "Output path", :type => :string, :default => "./graph-git.png"
+end
+
+GraphGit.graph_lines(opts.git_clone_url, opts.output_path)
