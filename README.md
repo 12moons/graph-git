@@ -1,7 +1,10 @@
 # graph-git
 Graph the lines of code count of a Git repository over time.
 
-![alt tag](https://raw.githubusercontent.com/berpj/graph-git/master/demo/docker.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/berpj/graph-git/master/demo/docker.png" width="400px" />
+<img src="https://raw.githubusercontent.com/berpj/graph-git/master/demo/go.png" width="400px" />
+</p>
 
 ##Requirements
 
