@@ -5,7 +5,7 @@ Graph the lines of code count of a Git repository over time.
 <img src="https://raw.githubusercontent.com/berpj/graph-git/master/demo/docker.png" width="47%" />
 <img src="https://raw.githubusercontent.com/berpj/graph-git/master/demo/go.png" width="47%" />
 <img src="https://raw.githubusercontent.com/berpj/graph-git/master/demo/angular.png" width="47%" />
-<img src="https://raw.githubusercontent.com/berpj/graph-git/master/demo/ghost.png" width="47%" />
+<img src="https://raw.githubusercontent.com/berpj/graph-git/master/demo/bootstrap.png" width="47%" />
 </p>
 
 ##Requirements
